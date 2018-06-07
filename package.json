@@ -41,7 +41,7 @@
     "react": "^15.3.2",
     "react-dom": "^15.3.2",
     "react-svg-icon": "^2.0.0",
-    "superagent": "^2.3.0"
+    "superagent": "^3.7.0"
   },
   "scripts": {
     "start": "npm run lint:versions -s && npm run watch -s",
